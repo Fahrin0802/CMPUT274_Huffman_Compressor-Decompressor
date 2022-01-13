@@ -1,0 +1,19 @@
+# -----------------------------------------------------
+#    Name: Fahrin Bushra
+#    ID: 1669159
+#    CCID: bushra1
+#    CMPUT 274, Fall 2021
+#
+#    Assignment 2
+# -----------------------------------------------------
+
+# Files submitted:
+#     README
+#     util.py
+
+# Consultation Information
+# @Jimnky on Computer Engineering Discord Server of uAlberta
+#     Helped me write figure out how to encode the end of file in the compress function
+
+# Code Information
+# This program uses huffman compression to compress and decompress files.
